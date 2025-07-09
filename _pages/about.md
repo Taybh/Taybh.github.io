@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is my home page.
-
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
 Welcome to my website! 
