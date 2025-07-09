@@ -11,28 +11,12 @@ This is my home page.
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-[![YouTube](https://img.shields.io/badge/YouTube-%20-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-%20-black?logo=medium&style=social)](https://medium.com/@innovate_tiba)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/Taybh)
-
-
-Welcome to my website for my Silicon Valley application! 
+Welcome to my website! 
 
 My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
 
 I’ve also just received my Entrepreneurship Certificate from Wharton Online. Please check it out here:  
 [![Wharton Online](https://img.shields.io/badge/Wharton%20Online-Certificate-blue)](https://coursera.org/share/8d6b86aca007ac7cb6ccdbeecf229b05)
-
-
-In the following page you can read more about my ventures: <a href="/MyProjects/" style="display: inline-block; background-color: white; color: black; padding: 2px 6px; border-radius: 4px; text-decoration: none; font-weight: 500; font-size: 14px; border: 1px solid #ccc;">
-  Click Here
-</a>
-
-Moreover, you can read about my social media activities "tech.decoded.de" and my community "Innovate Hamburg" in the following page: <a href="/TechDecoded/" style="display: inline-block; background-color: white; color: black; padding: 2px 6px; border-radius: 4px; text-decoration: none; font-weight: 500; font-size: 14px; border: 1px solid #ccc;">
-  Click Here
-</a>
 
 ## 🚀 What I am working on Now
 Currently, with all the experience I have in computer vision, AI and working as a software engineer for four years, I am developing a prototype of a smart walking aid using computer vision and AI. You can find the basic version of the walking aid in the following link: <a href="https://onurgulkokan6.wixsite.com/canebox" style="display: inline-block; vertical-align: middle;">
