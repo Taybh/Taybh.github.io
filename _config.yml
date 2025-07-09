@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer"
   location         : "Bad Breisig, Germany"
-  employer         : "Basler AG / Otto von Guericke University"
+  employer         : "Otto von Guericke University"
+  work             : ""
   uri              : # URL
   email            : "tayebeh@bhdr.dev" 
 
