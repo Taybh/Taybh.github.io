@@ -6,22 +6,20 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-Here is my certificates 
+Here is an overview of my certificates:
+
+• Entrepreneurship - Wharton Online [![Wharton Online](https://img.shields.io/badge/Wharton%20Online-Certificate-blue)](https://coursera.org/share/8d6b86aca007ac7cb6ccdbeecf229b05)
+• Deep learning A-Z: Hands-on artificial neural networks - Udemy
+• GitLab CI/CD: Pipelines, CI/CD and DevOps - Udemy
+• Java se8 fundamentals [Score: 90/100] - Tehran Institute of Technology
+• MATLAB [Score: 92/100] - Tehran Institute of Technology
+• Programming in C++ [Score: 94/100] Tehran Institute of Technology
+• German B2 - telc GmbH - The European Language Certificates
+• Specialized scientific and applied training course of "Maintenance, Equipment, Installation and Setup of Hospital Equipment - Amirkabir University of Technology - Tehran Polytechnic
 
 
 
-I’ve also just received my Entrepreneurship Certificate from Wharton Online. Please check it out here:  
-[![Wharton Online](https://img.shields.io/badge/Wharton%20Online-Certificate-blue)](https://coursera.org/share/8d6b86aca007ac7cb6ccdbeecf229b05)
 
 
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+

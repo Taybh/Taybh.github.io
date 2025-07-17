@@ -7,14 +7,76 @@ redirect_from:
   - /resume
 ---
 
+
 Education
 ======
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
