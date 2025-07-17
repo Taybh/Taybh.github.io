@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -45,13 +43,7 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
 Teaching
 ====== 
@@ -62,7 +54,7 @@ Teaching
 </div>
 
 <p>
-<br>• Tutored high school students in physics, reinforcing core concepts and helping improve academic performance.
+• Tutored high school students in physics, reinforcing core concepts and helping improve academic performance.
 <br>• Supported my former teacher post-graduation by reviewing and grading student exam papers.
 <br>• Contributed to the development of his book in physics, by writing detailed example solutions and supporting content.
 </p>
