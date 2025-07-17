@@ -16,17 +16,15 @@ My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical en
 <br>This fellowship has an acceptance rate of just 3% (1 in 20 out of an average of 700 global applicants), and selections are based on merit and personal achievements.
 <br>The boot camp provides qualified fellows with access to a community of experienced alumni and mentors, networking events, and first-hand insights from Silicon Valley–based Big Tech professionals, investors, and top-tier tech entrepreneurs.
 
-Moreover, I am currently developing a prototype of a smart walking aid using computer vision and AI, leveraging my four years of experience as a software engineer and my background in computer vision and artificial intelligence.
+<br><br>Moreover, I am currently developing a prototype of a smart walking aid using computer vision and AI, leveraging my four years of experience as a software engineer and my background in computer vision and artificial intelligence.
 <br>You can find the basic version of the walking aid in the following link: <a href="https://onurgulkokan6.wixsite.com/canebox" style="display: inline-block; vertical-align: middle;">
   <img src="https://img.shields.io/badge/Click%20Here-black?style=flat&logoColor=white&color=black" alt="Click Here">
 </a>
 I have written more about it in the "Projects and Awards" tab.
 
-Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
+<br><br>Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
 
-I’m preparing my application for a second master’s in Computer Science at the University of San Francisco, the University of California, San Francisco, or the University of California, Berkeley, where I would have the opportunity to contribute to world-changing projects in AI in healthcare, in labs such as the MED AI Lab, Clinical Neuroinformatics & AI Laboratory (CNAIL), Alaa Lab at UC Berkeley, or the BAIR Lab. That is the reason I would like to move to Silicon Valley. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
-
-Meanwhile, 
+<br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
 
 ## 🚀 What I am aiming at this fellowship
 Since I am currently looking for co-founders and building up my team, I am looking for possible collaborators, especially experts from other fields, like MBA and finance.
