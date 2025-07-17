@@ -24,7 +24,7 @@ My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical en
 
 <br><br>Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
 
-<br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
+<br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact. <br><br>
 
 
 ## 🚀 What I am aiming at this fellowship
@@ -36,7 +36,7 @@ This fellowship would help me to extend my connections in Silicon Valley, get in
 Moreover, as I mentioned before, I am applying for a second master’s in San Francisco; therefore, the university tours would be a great opportunity for me to visit different labs. I would love to visit the Alaa Lab at UC Berkeley, BAIR Lab, MED AI Lab, and Clinical Neuroinformatics & AI Laboratory (CNAIL), if possible. It would help me decide which one fits me best.
 
 Last but not least, I would like to bring back the knowledge I earn from this fellowship to our community "Innovate Hamburg".
-This is how this fellowship can help me grow professionally and personally. 
+This is how this fellowship can help me grow professionally and personally.<br><br>
 
 ## 🧠 More about my character and personality
 Now that I became a self-taught software engineer by personal perseverance, I believe I can achieve anything by finding the right mentors and putting the effort into it. This fellowship would give me the oportunity to find the right mentors and increases my chances of success as an entrepreneur.
