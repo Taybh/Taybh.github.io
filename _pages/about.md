@@ -28,9 +28,9 @@ My name is Tayebeh. I'm German 🇩🇪. I am a self-taught software engineer an
 </p>
 
 ## 🧠 More about my character and personality
-Now that I became a self-taught software engineer by personal perseverance, I believe I can achieve anything by finding the right mentors and putting the effort into it. This fellowship would give me the oportunity to find the right mentors and increases my chances of success as an entrepreneur.
+Now that I became a self-taught software engineer by personal perseverance, I believe I can achieve anything by finding the right mentors, being in the right environment and putting the effort into it. Studying computer science would give me the complete skills that I need professionally.
 
-I have always been used to bringing people together to deliver value, even outside of tech. I remember encouraging Iranians at my university in Germany to set up a booth for Iran during the city’s culture night. I taught Iranian dancing to volunteers, and we danced on stage. I learned dancing back in Iran, where it was forbidden for women to dance in public. I believe in pushing boundaries, even if you were born within them.
+I have a goal have always been used to bringing people together to deliver value, even outside of tech. I remember encouraging Iranians at my university in Germany to set up a booth for Iran during the city’s culture night. I taught Iranian dancing to volunteers, and we danced on stage. I learned dancing back in Iran, where it was forbidden for women to dance in public. I believe in pushing boundaries, even if you were born within them.
 
 In my opinion, being assertive, a self-learner, and thinking outside the box, which I see in myself, are the main characteristics of an entrepreneur. I moved to Germany, where I had no family or friends, despite being told I couldn’t go abroad because I had no relatives there. But I am writing to you now as a German by law.😊
 
