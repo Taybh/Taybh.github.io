@@ -9,7 +9,11 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Tayebeh. I'm German 🇩🇪. I am a self-taught software engineer and medical engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
+My name is Tayebeh. I'm German 🇩🇪. I am a medical engineer and a self-taught software engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
+
+I bring hands-on experiece in cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
+
+I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
 ## 🚀 What I am working on Now
 <p> I have been accepted into the Silicon Valley Fellowship program. In October, I plan to attend the fellowship in San Francisco.
