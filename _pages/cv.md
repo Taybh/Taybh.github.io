@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -59,11 +61,8 @@ Teaching
   <span>Jul 2011 - Jun 2012</span>
 </div>
 
-* Tutored high school students in physics, reinforcing core concepts and helping improve academic performance.
-* Supported my former teacher post-graduation by reviewing and grading student exam papers.
-* Contributed to the development of his book in physics, by writing detailed example solutions and supporting content.
-
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<p>
+<br>• Tutored high school students in physics, reinforcing core concepts and helping improve academic performance.
+<br>• Supported my former teacher post-graduation by reviewing and grading student exam papers.
+<br>• Contributed to the development of his book in physics, by writing detailed example solutions and supporting content.
+</p>
