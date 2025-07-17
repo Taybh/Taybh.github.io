@@ -9,7 +9,7 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
+My name is Tayebeh. I'm German 🇩🇪. I am a self-taught software engineer and medical engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
 
 ## 🚀 What I am working on Now
 <p> I have been accepted into the Silicon Valley Fellowship program. In October, I plan to attend the fellowship in San Francisco.
@@ -38,9 +38,9 @@ I have tried many things in my life, from playing the violin to playing soccer a
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-  <figure style="text-align: center;">
-    <img src="/images/dance.jpg" alt="Image 1" width="400" style="border-radius: px;">
-    <figcaption style="margin-top: 8px; font-size: 0.85em; color: #white;">Culture night in Magdeburg, Germany.</figcaption>
+  <figure style="text-align: center; display: inline-block;">
+    <img src="/images/dance.jpg" alt="Image 1" width="400" style="border-radius: 6px; display: block; margin: 0 auto;">
+    <figcaption style="margin-top: 8px; font-size: 0.85em; color: black;">Culture night in Magdeburg, Germany.</figcaption>
   </figure>
 
 </div>
