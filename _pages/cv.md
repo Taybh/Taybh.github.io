@@ -54,11 +54,20 @@ Talks
   {% endfor %}</ul>
   
 Teaching
-======
+====== 
+<div style="display: flex; justify-content: space-between;">
+  <span>High School Physics Tutor & Teaching Assistant</span>
+  <span>Jul 2011 - Jun 2012</span>
+</div>
+
+• Tutored high school students in physics, reinforcing core concepts and helping improve academic performance.
+• Supported my former teacher post-graduation by reviewing and grading student exam papers.
+• Contributed to the development of his book in physics, by writing detailed example solutions and supporting content.
+  <!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
