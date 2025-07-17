@@ -20,11 +20,12 @@ My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical en
 <br>You can find the basic version of the walking aid in the following link: <a href="https://onurgulkokan6.wixsite.com/canebox" style="display: inline-block; vertical-align: middle;">
   <img src="https://img.shields.io/badge/Click%20Here-black?style=flat&logoColor=white&color=black" alt="Click Here">
 </a>
-I have written more about it in the "Projects and Awards" tab.
+<br>I have written more about it in the "Projects and Awards" tab.
 
 <br><br>Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
 
 <br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
+
 
 ## 🚀 What I am aiming at this fellowship
 Since I am currently looking for co-founders and building up my team, I am looking for possible collaborators, especially experts from other fields, like MBA and finance.
