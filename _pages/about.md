@@ -9,22 +9,24 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-Welcome to my website! 
-
 My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
 
-I’ve also just received my Entrepreneurship Certificate from Wharton Online. Please check it out here:  
-[![Wharton Online](https://img.shields.io/badge/Wharton%20Online-Certificate-blue)](https://coursera.org/share/8d6b86aca007ac7cb6ccdbeecf229b05)
-
 ## 🚀 What I am working on Now
-Currently, with all the experience I have in computer vision, AI and working as a software engineer for four years, I am developing a prototype of a smart walking aid using computer vision and AI. You can find the basic version of the walking aid in the following link: <a href="https://onurgulkokan6.wixsite.com/canebox" style="display: inline-block; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/Click%20Here-white?style=flat&logoColor=black&color=white" alt="Click Here">
+<p> I have been accepted into the Silicon Valley Fellowship program. In October, I plan to attend the fellowship in San Francisco.
+<br>This fellowship has an acceptance rate of just 3% (1 in 20 out of an average of 700 global applicants), and selections are based on merit and personal achievements.
+<br>The boot camp provides qualified fellows with access to a community of experienced alumni and mentors, networking events, and first-hand insights from Silicon Valley–based Big Tech professionals, investors, and top-tier tech entrepreneurs.
+
+Moreover, I am currently developing a prototype of a smart walking aid using computer vision and AI, leveraging my four years of experience as a software engineer and my background in computer vision and artificial intelligence.
+<br>You can find the basic version of the walking aid in the following link: <a href="https://onurgulkokan6.wixsite.com/canebox" style="display: inline-block; vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Click%20Here-black?style=flat&logoColor=white&color=black" alt="Click Here">
 </a>
-I have written more about it in the page about my ventures.
+I have written more about it in the "Projects and Awards" tab.
 
-Besides my startup, I’m preparing my application for a second master’s in Computer Science at the University of San Francisco, the University of California, San Francisco, or the University of California, Berkeley, where I would have the opportunity to contribute to world-changing projects in AI in healthcare, in labs such as the MED AI Lab, Clinical Neuroinformatics & AI Laboratory (CNAIL), Alaa Lab at UC Berkeley, or the BAIR Lab. That is the reason I would like to move to Silicon Valley. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
+Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
 
-Meanwhile, I am working on publishing my paper and preparing for Azure 104 cloud exam.
+I’m preparing my application for a second master’s in Computer Science at the University of San Francisco, the University of California, San Francisco, or the University of California, Berkeley, where I would have the opportunity to contribute to world-changing projects in AI in healthcare, in labs such as the MED AI Lab, Clinical Neuroinformatics & AI Laboratory (CNAIL), Alaa Lab at UC Berkeley, or the BAIR Lab. That is the reason I would like to move to Silicon Valley. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
+
+Meanwhile, 
 
 ## 🚀 What I am aiming at this fellowship
 Since I am currently looking for co-founders and building up my team, I am looking for possible collaborators, especially experts from other fields, like MBA and finance.
@@ -61,6 +63,7 @@ I love reading self-development books 📖.
 I listen to podcasts about tech and self-development 🎧. Moreover, I attend a 2-year-long Transactional Analysis (TA) course which I believe it is necessary for every individual to enhance the soft skills for the career and personal life. 
 Furthermore, I played violin 🎻 actively as a teenager and currently I am rekindling the passion and rebuilding techniques.
 
+</p>
 
 <!--
 
