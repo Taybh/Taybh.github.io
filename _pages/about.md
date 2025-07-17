@@ -25,17 +25,13 @@ My name is Tayebeh. I'm German 🇩🇪. I am a software engineer and medical en
 <br><br>Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
 
 <br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact. <br><br>
-
+</p>
 
 ## 🚀 What I am aiming at this fellowship
 Since I am currently looking for co-founders and building up my team, I am looking for possible collaborators, especially experts from other fields, like MBA and finance.
 I would like to connect with people in the startup world, meet investors, visit big tech companies, and experience the Valley’s ecosystem firsthand, understanding how things work there and how that compares to the startup ecosystem in Germany, and bring back new insights and connections both for myself and for the Innovate Hamburg community.
-
-This fellowship would help me to extend my connections in Silicon Valley, get inspired by the mentors and founders who have gone this path.
-
-
-
 This is how this fellowship can help me grow professionally and personally.<br><br>
+
 
 ## 🧠 More about my character and personality
 Now that I became a self-taught software engineer by personal perseverance, I believe I can achieve anything by finding the right mentors and putting the effort into it. This fellowship would give me the oportunity to find the right mentors and increases my chances of success as an entrepreneur.
@@ -61,7 +57,6 @@ I love reading self-development books 📖.
 I listen to podcasts about tech and self-development 🎧. Moreover, I attend a 2-year-long Transactional Analysis (TA) course which I believe it is necessary for every individual to enhance the soft skills for the career and personal life. 
 Furthermore, I played violin 🎻 actively as a teenager and currently I am rekindling the passion and rebuilding techniques.
 
-</p>
 
 <!--
 
