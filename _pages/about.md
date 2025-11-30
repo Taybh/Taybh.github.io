@@ -26,7 +26,7 @@ I have experiece in programming languages and tools such as C++, Python, MATLAB,
 </a>
 <br>I have written more about it in the "Projects and Awards" tab.
 
-<br><br>Besides my startup, I am working on publishing my paper and preparing for Azure 104 cloud exam.
+<br><br>Besides my startup, I am working on publishing my paper and preparing for 104 cloud exam. A draft of my current research manuscript (in preparation for submission) is available in the following link: <a href="../assets/projects/tranfer-learning_segmentation_of_LC_and_SNPc.pdf" style="display: inline-block; vertical-align: middle;"> <img src="https://img.shields.io/badge/Click%20Here-black?style=flat&logoColor=white&color=black" alt="Click Here"> </a>
 
 <br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
 </p>
