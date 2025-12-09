@@ -9,9 +9,11 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Tayebeh. I'm German 🇩🇪. I am a medical engineer and a self-taught software engineer, with a specialization in deep learning and advanced image processing solutions for industrial camera systems.
+My name is Taybah. I'm from Germany 🇩🇪. I am an AI & Machine Learning engineer with a specialization in deep learning, medical imaging, computer vision, and advanced image processing solutions for industrial camera systems. I work on building neural networks for real-world applications, ranging from MRI analysis to industrial vision systems and intelligent assistive devices.
 
-I bring hands-on experiece in cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
+I hold an M.Sc. in Medical Systems Engineering and have 4+ years of experience as a software engineer. My work bridges research and engineering: deep learning model development, self-supervised learning, transfer learning, and image segmentation.
+
+I also have hands-on experience with cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), PyTorch, TensorFlow, DevOps practices, and web development.
 
 I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
@@ -28,7 +30,7 @@ I have experiece in programming languages and tools such as C++, Python, MATLAB,
 
 <br><br>Besides my startup, I am working on publishing my paper and preparing for 104 cloud exam. A draft of my current research manuscript (in preparation for submission) is available in the following link: <a href="../assets/projects/tranfer-learning_segmentation_of_LC_and_SNPc.pdf" style="display: inline-block; vertical-align: middle;"> <img src="https://img.shields.io/badge/Click%20Here-black?style=flat&logoColor=white&color=black" alt="Click Here"> </a>
 
-<br><br>Last but not least, I’m preparing my application for a second master’s in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
+<br><br>Last but not least, I’m preparing my application for a PhD in Computer Science in USA, where I would get the opportunity to contribute to world-changing projects in AI in healthcare, in some of the top-notch labs in the world. While contributing to such labs, I would also have the chance to work on my startup and turn my ideas into reality and have a world-wide impact.
 </p>
 
 ## 🧠 More about my character and personality
