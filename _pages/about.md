@@ -17,6 +17,8 @@ I also have hands-on experience with cloud platforms, including Amazon Web Servi
 
 I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
+<!--
+
 ## 🚀 What I am working on Now
 <p> I have been accepted into the Silicon Valley Fellowship program. In October, I plan to attend the fellowship in San Francisco.
 <br>This fellowship has an acceptance rate of just 3% (1 in 20 out of an average of 700 global applicants), and selections are based on merit and personal achievements.
@@ -56,7 +58,7 @@ I love doing sports. I have tried different sports during my life. Right now I l
 I love reading self-development books 📖.
 I listen to podcasts about tech and self-development 🎧. Moreover, I attend a 2-year-long Transactional Analysis (TA) course which I believe it is necessary for every individual to enhance the soft skills for the career and personal life. 
 Furthermore, I played violin 🎻 actively as a teenager and currently I am rekindling the passion and rebuilding techniques.
-
+-->
 
 <!--
 
