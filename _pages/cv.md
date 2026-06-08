@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-![Page 1](../assets/CV-SCREENSHOT1.png)
-![Page 2](../assets/CV-SCREENSHOT2.png)
+![Page 1](../assets/CV1.png)
+![Page 2](../assets/CV2.png)
 
 
 <!--  
