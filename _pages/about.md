@@ -9,13 +9,16 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Taybah. I'm from Germany 🇩🇪. I am an AI & Machine Learning engineer and researcher with a specialization in deep learning, medical imaging, computer vision, and advanced image processing solutions for industrial camera systems. I work on building neural networks for real-world applications, ranging from MRI analysis to industrial vision systems and intelligent assistive devices.
+My name is Taybah. I'm from Germany 🇩🇪. I am an AI/ML researcher and engineer specializing in foundation models, deep learning, Large Language Models, medical imaging, and computer vision.
+I work on building models for both medical and non-medical applications, including MRI segmentation, industrial vision systems, developing advanced image processing solutions for industrial camera systems, and intelligent assistive devices.
 
-I hold an M.Sc. in Medical Systems Engineering and have 4+ years of experience as a software engineer. My work bridges research and engineering: deep learning model development, self-supervised learning, transfer learning, and image segmentation.
+I bring hands-on experiece in PyTorch, TensorFlow, cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development. 
 
-I also have hands-on experience with cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), PyTorch, TensorFlow, DevOps practices, and web development.
+I hold an M.Sc. in Medical Systems Engineering and have 6+ years of experience as a software engineer and AI engineer. My work bridges AI research and practical engineering, including transfer learning for medical image segmentation, fine-tuning methods, self-supervised learning, and advanced imaging algorithms.
 
 I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
+
+I am passionate about applied machine learning, AI for healthcare, and building scalable ML systems. I also create educational tech content on YouTube, Instagram, and Medium, focusing on AI, ML, and innovation.
 
 <!--
 
