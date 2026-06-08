@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile-pic.JPG"
-  name             : "Tayebeh bahador"
+  name             : "Tayebeh Bahador"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer"
-  location         : "Bad Breisig, Germany"
+  bio              : "ML Engineer / ML Researcher"
+  location         : "Frankfurt, Germany"
   employer         : "Otto von Guericke University"
   work             : "Basler AG"
   uri              : # URL
-  email            : "tayebeh@bhdr.dev" 
+  email            : "tayebeh.bahador71@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   lastfm           : # Username
   linkedin         : "tayebeh-bahador-23356a185"
   mastodon         : # URL
-  medium           : "innovate_tiba"
+  medium           : "@innovate_tiba"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
