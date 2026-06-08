@@ -9,7 +9,7 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Taybah. I'm from Germany 🇩🇪. I am an AI & Machine Learning engineer with a specialization in deep learning, medical imaging, computer vision, and advanced image processing solutions for industrial camera systems. I work on building neural networks for real-world applications, ranging from MRI analysis to industrial vision systems and intelligent assistive devices.
+My name is Taybah. I'm from Germany 🇩🇪. I am an AI & Machine Learning engineer and researcher with a specialization in deep learning, medical imaging, computer vision, and advanced image processing solutions for industrial camera systems. I work on building neural networks for real-world applications, ranging from MRI analysis to industrial vision systems and intelligent assistive devices.
 
 I hold an M.Sc. in Medical Systems Engineering and have 4+ years of experience as a software engineer. My work bridges research and engineering: deep learning model development, self-supervised learning, transfer learning, and image segmentation.
 
