@@ -20,6 +20,7 @@ redirect_from:
   * _posts/
   * _beyondtech/
   * _initiatives/
+  * _publications/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png

@@ -12,6 +12,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Publications"
+    url: /publications/    
+
   - title: "Projects and Awards"
     url: /projects/
 

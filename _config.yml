@@ -229,6 +229,10 @@ collections:
   initiatives:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -283,10 +287,17 @@ defaults:
       path: ""
       type: initiatives
     values:
-      layout: talk
+      layout: initiatives
       author_profile: true
       share: true
-
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publications
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
