@@ -217,7 +217,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  beyondtech:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -251,10 +251,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _beyondtech
   - scope:
       path: ""
-      type: teaching
+      type: beyondtech
     values:
       layout: single
       author_profile: true

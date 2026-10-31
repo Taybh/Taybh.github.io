@@ -18,7 +18,7 @@ redirect_from:
   * _projects/
   * _portfolio/
   * _posts/
-  * _teaching/
+  * _beyondtech/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
