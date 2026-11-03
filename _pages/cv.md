@@ -12,7 +12,7 @@ redirect_from:
 
 I am an AI/ML Engineer and Researcher with over five years of combined experience in industrial software engineering and applied machine learning research. My work bridges AI research and practical software engineering, with a focus on developing, evaluating, and integrating machine learning solutions into real-world applications.
 
-I have four years of professional experience at Basler AG, where I developed computer vision software, image processing algorithms, and industrial vision systems using C++, Python, OpenCV, and modern software engineering practices. My experience includes software architecture, performance optimization, automated testing, CI/CD, and cloud-based development workflows.
+I have four years of professional experience at Basler AG, where I developed computer vision software, image processing algorithms, and industrial vision systems using C++, Python, OpenCV, and modern software engineering practices. My experience includes performance optimization, automated testing, CI/CD, and cloud-based development workflows.
 
 My research background spans deep learning, computer vision, medical image analysis, self-supervised learning, and transfer learning. Through research collaborations with academic institutions, I work on adapting foundation models to specialized domains, including medical image segmentation and classification, using techniques such as fine-tuning, LoRA, and parameter-efficient learning (PEFT).
 
@@ -24,7 +24,7 @@ My broader interests lie at the intersection of machine learning research, AI en
 
 - **Programming:** Python, PyTorch, TensorFlow, Pandas, NumPy, scikit-learn, C++, Qt/QML, MATLAB, SQL, HTML, CSS
 - **Machine Learning:** LLMs, RAG, Transformers, Prompt Engineering, CNNs, Transfer Learning, Self-Supervision, Fine-Tuning
-- **Tools:** NVIDIA GARAK, Docker, Git, Linux, OpenCV, Jupyter Notebook, Unit Testing, CUDA, HALCON, ITK-SNAP
+- **Tools:** Docker, Git, Linux, OpenCV, Jupyter Notebook, Unit Testing, CUDA, HALCON, ITK-SNAP
 - **Cloud & DevOps:** MLOps, Amazon SageMaker, Cloud-Based Training Workflows, AWS, Azure, CI/CD, S3, Terraform, Infrastructure as Code (IaC)
 - **Management & Documentation:** Atlassian (Confluence, Jira), Agile Methodologies (Scrum, Kanban), LaTeX, Hugo
 
