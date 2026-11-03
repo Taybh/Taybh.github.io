@@ -9,16 +9,19 @@ redirect_from:
 
 ![Tech in healthcare](/images/AI-in-healthcare2.jpg){: .align-right width="300px"}
 
-My name is Taybah. I'm from Germany 🇩🇪. I am an AI/ML researcher and engineer specializing in foundation models, deep learning, Large Language Models, medical imaging, and computer vision.
-I work on building models for both medical and non-medical applications, including MRI segmentation, industrial vision systems, developing advanced image processing solutions for industrial camera systems, and intelligent assistive devices.
+My name is Taybah. I'm an AI/ML Engineer and Researcher based in Germany 🇩🇪, with over six years of combined experience in software engineering and applied machine learning research.
 
-I bring hands-on experiece in PyTorch, TensorFlow, cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development. 
+My work bridges AI research and practical engineering, with a focus on deep learning, computer vision, foundation models, and intelligent AI systems. I enjoy exploring how advances in machine learning can be translated into reliable, efficient, and real-world applications.
 
-I hold an M.Sc. in Medical Systems Engineering and have 6+ years of experience as a software engineer and AI engineer. My work bridges AI research and practical engineering, including transfer learning for medical image segmentation, fine-tuning methods, self-supervised learning, and advanced imaging algorithms.
+I have four years of professional experience as a Software Engineer at Basler AG, where I developed computer vision software, image processing algorithms, and industrial camera solutions. My engineering background includes C++, Python, OpenCV, Qt/QML, software integration, automated testing, and CI/CD, alongside experience with cloud technologies such as AWS and Microsoft Azure.
 
-I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
+On the research side, I hold an M.Sc. in Medical Systems Engineering from Otto-von-Guericke University Magdeburg. My research experience spans medical image analysis, segmentation, classification, deep learning, transfer learning, self-supervised learning, and foundation model adaptation. My current research interests include adapting models such as the Segment Anything Model (SAM) to specialized medical imaging tasks through efficient fine-tuning techniques, including LoRA and PEFT.
 
-I am passionate about applied machine learning, AI for healthcare, and building scalable ML systems. I also create educational tech content on YouTube, Instagram, and Medium, focusing on AI, ML, and innovation.
+Beyond computer vision, I explore Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agentic AI, with an interest in building practical AI applications and scalable machine learning workflows. I work with technologies such as PyTorch, TensorFlow, Docker, Amazon SageMaker, and cloud-based development tools.
+
+I'm particularly interested in opportunities that combine machine learning research, AI engineering, and software development, where I can contribute to both advancing intelligent models and turning them into useful applications.
+
+Outside my technical work, I enjoy sharing knowledge and creating educational content about AI, machine learning, technology, and innovation on YouTube, Instagram, and Medium.
 
 <!--
 
