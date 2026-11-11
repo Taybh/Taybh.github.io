@@ -20,157 +20,124 @@ Beyond computer vision, I am interested in large language models (LLMs), retriev
 
 My broader interests lie at the intersection of machine learning research, AI engineering, and scalable software systems, with an emphasis on connecting scientific advances to practical applications.
 
-## Technical Skills
+## Education
 
-- **Programming:** Python, PyTorch, TensorFlow, Pandas, NumPy, scikit-learn, C++, Qt/QML, MATLAB, SQL, HTML, CSS
-- **Machine Learning:** LLMs, RAG, Transformers, Prompt Engineering, CNNs, Transfer Learning, Self-Supervision, Fine-Tuning
-- **Tools:** Docker, Git, Linux, OpenCV, Jupyter Notebook, Unit Testing, CUDA, HALCON, ITK-SNAP
-- **Cloud & DevOps:** MLOps, Amazon SageMaker, Cloud-Based Training Workflows, AWS, Azure, CI/CD, S3, Terraform, Infrastructure as Code (IaC)
-- **Management & Documentation:** Atlassian (Confluence, Jira), Agile Methodologies (Scrum, Kanban), LaTeX, Hugo
 
-## Industry and Research Experience
+**Otto-von-Guericke University (OVGU) Magdeburg** | GPA: 1.9 (German scale, 1.0 is best)  —  Magdeburg, Germany
+Master of Science, Medical Systems Engineering.   —  Graduation Date: 03/2021
+Relevant Courses: Methods of Magnetic Resonance Imaging (MRI),
+Visualization,
+Computer-Assisted Surgery, Human-Computer Interfaces, Digital Information Processing, Computed Tomography (CT) Lab
+Thesis: Quantification of the Improvement due to Transfer Learning in Segmentation of Neuromelanin-enriched Brain Structures | Advisor: Max Dünnwald
 
-### ML Research Collaborator | Biomedical AI Research Lab (BAIR), UCLA
-*Remote | June 2026 – Present*
-
-- Developing and benchmarking deep learning and foundation-model-based approaches for automated classification of corneal diseases from AS-OCT pachymetry maps.
-
-### ML Research Collaborator | Otto-von-Guericke University & Human Technopole
-*Remote | April 2026 – Present*
-
-- Adapting foundation models (e.g., SAM) for vessel segmentation using efficient fine-tuning strategies such as LoRA and PEFT for domain adaptation in medical imaging.
-- Developing reproducible GPU-based and scalable pipelines for training, evaluation, and model optimization.
-
-### Silicon Valley Fellowship
-*San Francisco, United States | October 2025*
-
-- Selected for an international fellowship (4% acceptance rate), engaging with founders, venture capitalists, and researchers to gain first-hand exposure to the Silicon Valley innovation ecosystem and entrepreneurship culture.
-
-### Software Engineer – Computer Vision Systems | Basler AG
-*Ahrensburg, Germany | May 2021 – March 2025*
-
-- Built, deployed, and presented production computer vision modules using C++ and Python, integrating pipelines into Docker-based CI/CD infrastructure, following software testing practices, and collaborating with stakeholders and cross-functional teams.
-- Delivered web-based machine vision solutions used in industrial automation environments.
-- Developed maintainable vision algorithms for long-term industrial deployment across on-premises and cloud environments.
-
-### Machine Learning Research Intern | Basler AG – R&D Department
-*Ahrensburg, Germany | December 2020 – March 2021*
-
-- Contributed to scalable ML engineering workflows and developed self-supervised learning and transfer learning pipelines, considering FPGA constraints to reduce labeling effort for industrial imaging datasets.
-- Implemented Unsupervised Data Augmentation (UDA), achieving up to a 5% improvement in test accuracy over the baseline self-supervised approach.
-- Achieved 85% accuracy using only 2,000 labeled images, compared with 90% accuracy using 50,000 labeled images in conventional supervised learning.
-
-### Machine Learning Research Assistant | Otto-von-Guericke University & German Center for Neurodegenerative Diseases (DZNE)
-*Magdeburg, Germany | November 2020 – March 2021*
-
-- Developed experimental baselines for transfer learning in segmentation of the locus coeruleus (LC) in MRI images.
-- Contributed to segmentation workflows by annotating the locus coeruleus and substantia nigra pars compacta (SNpc) using radiology protocols and ITK-SNAP, supporting the DZNE collaboration.
-
-### ML Research Assistant | Max Planck Institute for Dynamics of Complex Technical Systems
-*Magdeburg, Germany | May 2020 – August 2020*
-
-- Implemented convolutional neural networks (CNNs) and deep learning algorithms for super-resolution, improving visual fidelity and detail reconstruction in non-medical data.
-
-### ML Research Assistant | University Hospital Magdeburg – Medicine and Digitalization Group, Department of Neurology
-*Magdeburg, Germany | May 2019 – January 2020*
-
-- Implemented deep learning models for super-resolution and data imputation to enhance MRI scan resolution and improve visualization and analysis.
-- Mentored new students in Linux workflows and Python programming.
-
-### R&D Marketing Expert | Pooyandegan Rah Saadat
-*Tehran, Iran | December 2014 – November 2015*
-
-- Worked with medical doctors and R&D teams during surgical procedures to evaluate clinical requirements for new medical device modules and integrate feedback into development.
+**Azad University, Science And Research Branch** | GPA: 16.45/20 (Iranian grading)  —  Tehran, Iran
+Bachelor of Science, Biomedical Engineering (bioelectric)  —  Graduation Date: 11/2015
+Relevant Courses: Image Processing, Algorithmic Computation
+Thesis: Intravascular Ultrasound (IVUS) image generation by using Field II simulation method | Advisor: Prof. Seyed Kamaledin Setarehdan
 
 ## Publications
 
-**Investigating the Benefit of Transfer Learning from the Locus Coeruleus for Substantia Nigra Pars Compacta Segmentation**
 
-T. Bahador, M. Dünnwald, M. J. Betts, E. Düzel, S. Oeltze-Jafra.
+**T. Bahador**, M. Dünnwald, M. J. Betts, E. Düzel, S. Oeltze-Jafra, “Investigating the Benefit of Transfer Learning from the Locus Coeruleus for Substantia Nigra Pars Compacta Segmentation,” Submitted to IEEE International Symposium on Biomedical Imaging (ISBI 2027), under review ([Manuscript](https://taybh.github.io/assets/papers/ISBI_Paper_preprint.pdf)).
 
-*Submitted to IEEE International Symposium on Biomedical Imaging (ISBI), 2027.*
+## Research Experience
+
+
+**Research Collaborator  | Biomedical AI Research Lab (BAIR), UCLA ([GitHub](https://github.com/Taybh/corneal-diseases-classification))**  —  Remote | 06/2026 – Present
+- Developing and benchmarking deep learning approaches for corneal disease classification using AS-OCT pachymetry maps.
+- Developed an annotation tool, established labeling criteria in consultation with an ophthalmologist to address the lack of labeled data, and manually labeled AS-OCT images.
+- Trained and evaluated a ConvNeXt classifier, achieving 94% classification accuracy, exploring approaches to scale annotation and classification across thousands of unlabeled AS-OCT images.
+
+**Research Collaborator | OVGU and Human Technopole ([GitHub](https://github.com/Taybh/vessel-segmentation))**  —  Remote | 04/2026 – Present
+- Investigating foundation models (SAM, MedSAM, and MedicoSAM) for medical vessel segmentation, using parameter-efficient fine-tuning methods (LoRA and adapters) for domain adaptation in low-data medical imaging settings.
+- Developing reproducible GPU-accelerated PyTorch pipelines, evaluating segmentation performance across training configurations and loss functions, with a focus on transferability and domain robustness. **Supervisor:** [Dr. Soumick Chatterjee](https://www.linkedin.com/in/soumick/)
+
+**Research Assistant | Medicine and Digitalization Group, Department of Neurology, University Hospital & German Center for Neurodegenerative Diseases (DZNE)** —  Magdeburg, Germany | 11/2020 – 03/2021
+- Developed and designed experimental baselines for transfer learning in the segmentation of the locus coeruleus (LC) in MRI images, and contributed to segmentation workflows by annotating LC and substantia nigra pars compacta(SNpc) using radiology protocols and ITK-SNAP, supporting DZNE collaboration.
+
+**Research Assistant | Max Planck Institute for Dynamics of Complex Technical Systems** — Magdeburg, Germany | 05/2020 – 08/2020
+- Implemented cutting-edge convolutional neural networks (CNNs) and deep learning algorithms in super-resolution, enabling improvements of visual fidelity and detail reconstruction in non-medical data.
+
+**Research Assistant | Medicine and Digitalization Group, Department of Neurology, University Hospital** — Magdeburg, Germany | 05/2019 – 01/2020
+- Implemented state-of-the-art deep learning models in super-resolution and data imputation, in order to enhance the resolution of MRI scans, enabling more precise visualization and analysis.
+- Mentored new students in the group in Linux workflows and Python programming.
+
+## Industry Experience
+
+
+**Software Engineer | Basler AG**  —  Ahrensburg, Germany | 05/2021 – 03/2025
+- Developed image processing and embedded C++ computer vision modules, known as "vTools", and delivered web-based machine vision solutions, using Docker-based development, both on-premises and cloud training pipelines, CI/CD integration, and unit testing for production-grade deployment.
+
+**Intern | Basler AG - R&D Department**  —  Ahrensburg, Germany | 12/2020 – 03/2021
+- Designed and developed self-supervised and semi-supervised learning pipelines for industrial image classification, using Unsupervised Data Augmentation (UDA), considering constraints on an FPGA, to reduce labeling requirements.
+- Improved test accuracy by up to 5% over the baseline self-supervised approach, achieving 85% accuracy with only 2,000 labeled images, compared with 90% using 50,000 labeled images in fully supervised learning.
+
+**R&D Marketing Expert | Pooyandegan Rah Saadat**  —  Tehran, Iran | 12/2014 – 11/2015
+- Worked with medical doctors and R&D teams during various surgeries to evaluate clinical requirements for new medical device modules and integrate feedback into development.
+
+## Fellowships & Selected Programs
+
+
+**Silicon Valley Fellowship [[Certificate](https://taybh.github.io/assets/certificates/SILICON_VALLEY_FELLOWSHIP_certificate.png)]**  —  San Francisco, United States | 10/2025
+- Selected for a competitive international fellowship (4% acceptance rate), gaining exposure to Silicon Valley’s innovation and entrepreneurship ecosystem through engagement with founders, investors, and researchers.
 
 ## Projects
 
-### RAG Policy Assistant
-*Personal Project | LLM Systems*
 
-- Built a retrieval-augmented generation system for enterprise policy question answering using Dense Passage Retrieval (DPR), FAISS vector search, and GPT-2 generation.
-- Designed semantic retrieval pipelines for document grounding and low-latency question answering over internal knowledge bases.
+**Multilingual LLM Guardrail Benchmark, AI Safety & Alignment Evaluation | Personal Project ([GitHub](https://github.com/Taybh/multilingual-llm-guardrail-benchmark))**
+- Built a Python benchmark to evaluate LLM safety guardrails across English, German, and Persian, comparing multiple approaches against harmful requests, prompt injection, and jailbreak attempts.
 
-### Multi-Agent NLP Chatbot
-*Personal Project | Agentic AI*
+**RAG Policy Assistant | Personal Project (LLM Systems) ([GitHub](https://github.com/Taybh/rag-policy-assistant))**
+- Built a retrieval-augmented generation system for enterprise policy question answering using Dense Passage Retrieval (DPR), FAISS vector search, and GPT-2 generation, and designed semantic retrieval pipelines for document grounding and low-latency question answering over internal knowledge bases.
 
-- Built a modular multi-agent chatbot with retrieval-based NLP, query routing, shared memory, and API integration.
-- Implemented PDF-based question answering using TF-IDF retrieval and cosine similarity, with context-aware memory for multi-turn interactions.
+**Multi-Agent NLP Chatbot | Personal Project (Agentic AI) ([GitHub](https://github.com/Taybh/multi-agent-nlp-chatbot))**
+- Built a modular multi-agent chatbot with retrieval-based NLP, query routing, shared memory, and API integration, and implemented PDF-based question answering using TF-IDF retrieval and cosine similarity, with context-aware memory for multi-turn interactions.
 
-### Quantification of the Improvement due to Transfer Learning in Segmentation of Neuromelanin-enriched Brain Structures
-*Master's Thesis | Otto-von-Guericke University | June 2020 – October 2020*
+**Quantification of the Improvement due to Transfer Learning in Segmentation of Neuromelanin-enriched Brain Structures (master thesis - ([script](https://taybh.github.io/assets/projects/master_thesis.pdf))) | OVGU **  —  Magdeburg, Germany | 06/2020 – 10/2020
+- Developed and evaluated 3D U-Net models for segmentation of the locus coeruleus and substantia nigra pars compacta in neuromelanin-sensitive MRI.
+- Compared inter-region transfer learning strategies against training from scratch across varying numbers of labeled subjects.
+- Found that transfer learning did not significantly outperform scratch-trained baselines, even with as few as five labeled subjects.
 
-- Conducted research on inter-region transfer learning for segmentation of the locus coeruleus and substantia nigra in neuromelanin-sensitive MRI using a 3D U-Net.
-- Achieved a Dice score of 74.1% ± 12.2, comparable to inter-rater agreement.
+**Smart walking aid for people with vision problem ([link](https://onurgulkokan6.wixsite.com/canebox)) | OVGU**  —  Magdeburg, Germany | 04/2018 – 07/2018
+- Developed in a four‑member multidisciplinary team, CaneBox won both the Best Team Award and the Best Design award at Otto von Guericke University Magdeburg 2018. Currently rebuilding using embedded deep learning methods.
 
-### Smart Walking Aid for People with Vision Problems (CaneBox)
-*Otto-von-Guericke University | April 2018 – July 2018*
+**IVUS Image Generation by using Field II simulation method(Bachelor thesis)**  —  Tehran, Iran
 
-- Developed a smart walking aid as part of a four-member multidisciplinary team.
-- Won both the **Best Team Award** and **Best Design Award** at Otto-von-Guericke University Magdeburg in 2018.
-- Currently rebuilding the system using embedded deep learning methods.
+**Azad University**  —  10/2014 – 11/2015
+- Generated intravascular ultrasound phantoms based on Finite Element and Field II methods
 
-## Education
+## Skills & Interests
 
-### Master of Science – Medical Systems Engineering
-**Otto-von-Guericke University (OVGU)**  
-Magdeburg, Germany | Graduated March 2021
+**Programming:** Python, PyTorch, TensorFlow, Pandas, NumPy, scikit-learn, C++, Qt/QML, MATLAB, SQL, HTML, CSS
+**ML & Vision:** CNNs, LLM, RAG, Transformers, Foundation Models, Prompt Engineering, Segmentation, Transfer Learning, Self-Supervised Learning, Fine-Tuning.
+**Tools:** Docker, Git, Linux, OpenCV, Jupyter Notebook, Unittest, CUDA, Halcon, ITK-SNAP
+**Cloud & DevOps:** cloud-based training workflows, AWS, Azure, CI/CD, Terraform
+**Management & Documentation:** Atlassian (Confluence, Jira), Agile Methodologies (Agile Scrum, Kanban), LaTeX, Hugo
+**Language:** English (Business fluency-C1), German (B2), Persian (Native), Arabic (A2)
+**Interests:** Playing violin, Group dancing, Fitness / Weightlifting
 
-- GPA: 1.9 (German grading system)
+## Honors & awards
 
-### Bachelor of Science – Biomedical Engineering (Bioelectric)
-**Azad University, Science and Research Branch**  
-Tehran, Iran | Graduated November 2015
 
-- GPA: 2.3 (German grading equivalent)
+**Best design award**, OVGU ("Smart Walking Aid" project)[[Certificate](https://taybh.github.io/assets/certificates/BEST_DESIGN_AWARD.png)] —  Magdeburg, Germany | 07/2018
 
-## Initiative, Mentorship & Outreach
-
-### Speaker | INNOVATE Decentral (Hamburg Branch)
-*Germany | April 2025 – Present*
-
-- Delivered talks on innovation, startups, and navigating early career paths in technology for students and early-career engineers.
-
-### Creator of Multilingual Educational Content
-*April 2025 – Present*
-
-- Creating educational content about technology in English, German, and Persian across multiple platforms.
+**Best team award**, OVGU ("Smart Walking Aid" project)[[Certificate](https://taybh.github.io/assets/certificates/Best_team_award.png)] —  Magdeburg, Germany | 07/2018
 
 ## Licenses & Certificates
 
-- Future of AI, AGI Strategy, Technical AI Safety – BlueDot Impact
-- RAG and Agentic AI – IBM
-- Entrepreneurship – Wharton Online
-- Ultimate AWS Certified Solutions Architect Associate 2025 – Udemy
-- AZ-104 Microsoft Azure Administrator – Udemy
-- Deep Learning – Udemy
-- GitLab CI/CD: Pipelines, CI/CD, and DevOps – Udemy
-- Programming in C++, MATLAB, and Java SE 8 Fundamentals – Tehran Institute of Technology
+- [Future of AI](https://bluedot.org/certification?id=recDBN1qpXIV1QSvE), [AGI Strategy](https://bluedot.org/certification?id=recexsB59KtFEzjbw), [Technical AI Safety](https://bluedot.org/certification?id=recpP1x2fc2x4CsgT) - BlueDot Impact
+- Entrepreneurship - Wharton Online
+- German B2 - telc GmbH - The European Language Certificates
 
-## Honors & Awards
+## Teaching, Mentorship & Outreach
 
-- **Best Design Award** – Smart Walking Aid Project, Otto-von-Guericke University, July 2018
-- **Best Team Award** – Smart Walking Aid Project, Otto-von-Guericke University, July 2018
-- **Ranked 3rd out of 61 students** – Azad University, August 2014
 
-## Teaching & Other Experience
+**Speaker | INNOVATE Decentral, Hamburg**	 —  Germany | 04/2025 – Present
+Delivered talks on innovation, entrepreneurship, and career development in technology for students and early-career engineers.
 
-### High School Physics Tutor & Teaching Assistant | Barati
-*Tehran, Iran | July 2011 – June 2012*
+**Technology Content Creator** Created multilingual (EN/DE/FA) educational content on technology across multiple digital platforms  —  04/2025 – Present
 
-## Additional Information
-
-- **Languages:** English (C1, Business Fluency), German (B2 telc, actively improving toward C1), Persian (Native), Arabic (A2)
-- **Nationality:** German, Iranian
-- **Driving License:** German Class B
-- **Interests:** Playing violin, group dancing, fitness, weightlifting
+**Physics Tutor & Teaching Assistant**  —  Tehran, Iran | 07/2011 – 06/2012 Tutored high school students in physics, graded exams, and contributed detailed examples and solutions to a physics textbook.
 
 
 <!--  
