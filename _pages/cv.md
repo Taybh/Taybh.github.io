@@ -93,7 +93,7 @@ Thesis: Intravascular Ultrasound (IVUS) image generation by using Field II simul
 **Multi-Agent NLP Chatbot | Personal Project (Agentic AI) ([GitHub](https://github.com/Taybh/multi-agent-nlp-chatbot))**
 - Built a modular multi-agent chatbot with retrieval-based NLP, query routing, shared memory, and API integration, and implemented PDF-based question answering using TF-IDF retrieval and cosine similarity, with context-aware memory for multi-turn interactions.
 
-**Quantification of the Improvement due to Transfer Learning in Segmentation of Neuromelanin-enriched Brain Structures (master thesis - ([script](https://taybh.github.io/assets/projects/master_thesis.pdf))) | OVGU **  —  Magdeburg, Germany | 06/2020 – 10/2020
+**Quantification of the Improvement due to Transfer Learning in Segmentation of Neuromelanin-enriched Brain Structures (master thesis - ([script](https://taybh.github.io/assets/projects/master_thesis.pdf)))** | OVGU  —  Magdeburg, Germany | 06/2020 – 10/2020
 - Developed and evaluated 3D U-Net models for segmentation of the locus coeruleus and substantia nigra pars compacta in neuromelanin-sensitive MRI.
 - Compared inter-region transfer learning strategies against training from scratch across varying numbers of labeled subjects.
 - Found that transfer learning did not significantly outperform scratch-trained baselines, even with as few as five labeled subjects.
